@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm kadir</h1>
 <h3 align="center">A passionate IOS developer from Turkey</h3>
 
-- 🔭 I’m currently working on **GlobalAISummerCamp**
+- 🔭 I’m currently working on **bitirmeProjesi**
 
 - 🌱 I’m currently learning **Swift**
 
