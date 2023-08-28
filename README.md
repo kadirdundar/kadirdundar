@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **C#,SQL**
 
 - 📝 I regularly write articles on [https://medium.com/@kadirdundar](https://medium.com/@kadirdundar)
 
