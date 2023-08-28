@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm kadir</h1>
-<h3 align="center">A passionate IOS developer from Turkey</h3>
+<h3 align="center">A passionate  Developer from Turkey</h3>
 
-- 🔭 I’m currently working on **bitirmeProjesi**
 
-- 🌱 I’m currently learning **Swift**
+
+- 🌱 I’m currently learning **C#**
 
 - 📝 I regularly write articles on [https://medium.com/@kadirdundar](https://medium.com/@kadirdundar)
 
